@@ -1,0 +1,162 @@
+*{
+  box-sizing: boarder-box
+}
+
+body {
+  color: white;
+  max-width: 2000px;
+  margin: auto;
+}
+
+.container-main {
+  background-color: #acf5be;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #0f6c1b;
+
+}
+
+.container-top {
+  background-color: #9ec8ff;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #0017bf;
+  display: flex;
+}
+
+.container-top1{
+  background-color: #ffc8ad;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #e9806b;
+  flex: 1;
+  height: 80px;
+}
+
+.container-top2{
+  background-color: #ffc8ad;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #e9806b;
+  flex: 1;
+  height: 80px;
+  display: flex;
+}
+
+.container-top2a{
+  background-color: #ff9fad;
+  border: 5px solid #d5192a;
+  flex: 1;
+  height:70px;
+  width: flex;
+}
+
+.container-top2b{
+  background-color: #ff9fad;
+  border: 5px solid #d5192a;
+  flex: 1;
+  height:70px;
+  width: flex;
+}
+
+.container-top3{
+  background-color: #ffc8ad;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #e9806b;
+  flex: 1;
+  height: 80px;
+}
+
+.container-mid {
+  display: flex;
+}
+
+.container-mid1 {
+  background-color: #ffb0b0;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #932b2a;
+  flex: 1;
+  height: 300px;
+}
+
+.container-mid2 {
+ flex: 1;
+}
+
+.container-mid2a {
+  background-color: #ffb0b0;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #932b2a;
+  height: 120px;
+}
+
+.container-mid2b {
+  background-color: #ffb0b0;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #932b2a;
+  height: 120px;
+}
+
+.container-bot {
+  background-color: #9ec8ff;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #0017bf;
+  display: flex;
+}
+
+.container-bot1{
+  background-color: #dbd3ff;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #6157a0;
+  flex: 2;
+  height: 90px;
+}
+
+.container-bot2{
+  background-color: #ffc8ad;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #e9806b;
+  flex: 1;
+  height: 90px;
+}
+
+
+.container-bot3{
+  background-color: #ffc8ad;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #e9806b;
+  flex: 1;
+  height: 90px;
+}
+
+.container-bot4{
+  background-color: #dbd3ff;
+  padding: 20px;
+  margin: 10px;
+  border: 5px solid #6157a0;
+  flex: 2;
+  height: 90px;
+ 
+}
+
+.container-footer {
+  background-color: #ffffff;
+  padding: 20px;
+  margin-top: 10px; 
+  text-align: center;
+  width: 100%; 
+}
+.container-footer p {
+  margin: 5px;
+  font-size: 30px;
+  color: #000000; 
+  font-weight: bold;
+}
